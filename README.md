@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shrirang Kurhe</h1>
+<h1 align="center">Hi 👋,I’m **Shrirang Kurhe**, an **AI Engineer</h1>
 <h3 align="center">A Passionate Data Scientist from India 🇮🇳</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -7,12 +7,12 @@
   <img src="https://komarev.com/ghpvc/?username=shrirang-kurhe&label=Profile%20views&color=0e75b6&style=flat" alt="shrirang-kurhe" /> 
 </p>
 
-- 🔭 I’m currently working on **Machine Learning, Deep Learning, and Gen-AI Projects**
-- 🌱 I’m currently learning **Python, ML, DL, Gen-AI, and Prompt Engineering**
-- 👯 I’m looking to collaborate on **AI/ML Open-Source Projects**
-- 💬 Ask me about **Data Science, Machine Learning, and AI**
-- 📫 How to reach me **shrirangkurhe7@gmail.com**
-- ⚡ Fun fact: **I love learning new technologies daily! 🚀**
+- 🌱 I’m currently working as an **AI Engineer**, handling real-world **Machine Learning, Deep Learning, and Gen-AI projects**.
+- 🔭 I also work on **freelancing AI projects** for companies and startups.
+- 👯 Actively building **ML models, Deep Learning architectures, and Generative AI applications**.
+- 💬 Ask me about **Data Science, Machine Learning, and AI**.
+- 📫 How to reach me **shrirangkurhe7@gmail.com**.
+- ⚡ Fun fact: **I love learning new technologies and experimenting with AI every day! 🚀**.
 
 ---
 
