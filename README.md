@@ -12,7 +12,6 @@
 - 👯 Actively building **ML models, Deep Learning architectures, and Generative AI applications**.
 - 💬 Ask me about **Data Science, Machine Learning, and AI**.
 - 📫 How to reach me **shrirangkurhe7@gmail.com**.
-- ⚡ Fun fact: **I love learning new technologies and experimenting with AI every day! 🚀**.
 
 ---
 
